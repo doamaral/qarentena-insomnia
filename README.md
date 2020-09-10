@@ -6,4 +6,4 @@
 - [Linkedin](https://www.linkedin.com/in/lopesdoamaral/)
 
 - [ServeRest](https://www.npmjs.com/package/serverest)
-    - `$ npx serverest -p 3500 -t 3600 --nobearer`
+    - `$ npx serverest -t 3600 --nobearer`
